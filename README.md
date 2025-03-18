@@ -6,11 +6,11 @@
 
 ## 📕My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Linux文件目录理解](http://example.com/posts/58113.html)
-- [单例模式](http://example.com/posts/46132.html)
-- [Ubuntu 20.04 + mysql 8 默认密码问题](http://example.com/posts/44849.html)
-- [redis常用命令](http://example.com/posts/34206.html)
-- [protobuf安装](http://example.com/posts/32845.html)
+- [Linux文件目录理解](http://oymaster.github.io/posts/58113.html)
+- [单例模式](http://oymaster.github.io/posts/46132.html)
+- [Ubuntu 20.04 + mysql 8 默认密码问题](http://oymaster.github.io/posts/44849.html)
+- [redis常用命令](http://oymaster.github.io/posts/34206.html)
+- [protobuf安装](http://oymaster.github.io/posts/32845.html)
 <!-- BLOG-POST-LIST:END -->
 
 
