@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi%2CThere.I'm+oymaster%F0%9F%91%8B)](https://git.io/typing-svg)
----
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oymaster&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/欧阳大师?theme=light&ext=activity&site=cn)
+
 ## 🎯About Me
 
 - 🔭 I’m currently working on `cpp`/`qt`/`python`
