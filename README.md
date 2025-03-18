@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi%2CThere.I'm+oymaster%F0%9F%91%8B)](https://git.io/typing-svg)
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oymaster&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ## 🎯About Me
 
 - 🔭 I’m currently working on `cpp`/`qt`/`python`
@@ -14,7 +14,7 @@
 
 ---
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oymaster&theme=xcode)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oymaster&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
