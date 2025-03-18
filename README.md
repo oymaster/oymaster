@@ -13,8 +13,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?oymaster=Taot-chen&theme=xcode)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oymaster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oymaster&theme=xcode)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oymaster&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
