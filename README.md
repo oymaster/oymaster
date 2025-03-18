@@ -1,7 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oymaster&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/欧阳大师?theme=light&ext=activity&site=cn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oymaster&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![LeetCode Stats](https://leetcard.jacoblin.cool/oymaster?theme=catppuccinMocha&font=Anaheim&site=cn)
 
 ## 🎯About Me
 
