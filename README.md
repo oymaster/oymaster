@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on `cpp`/`qt`/`python`
 - 🌱 I’m currently learning  `LLM`/`AI security`
-- ⚡ Fun fact:I ❤️ 😺s
 - 📫 How to reach me: [@oymaster](https://github/oymaster)
 
 ## 📕My Latest Blogs
@@ -14,8 +13,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?oymaster=Taot-chen&theme=xcode)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oymaster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oymaster&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **oymaster/oymaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
