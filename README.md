@@ -9,7 +9,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oymaster&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![LeetCode Stats](https://leetcard.jacoblin.cool/oymaster?theme=catppuccinMocha&font=Anaheim&site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/oymaster?theme=catppuccinMocha&font=Anaheim&site=cn)
 ---
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oymaster&theme=xcode)
 
