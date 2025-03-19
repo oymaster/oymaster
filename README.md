@@ -17,8 +17,6 @@
 ---
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=oymaster&theme=xcode)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/oymaster?theme=light&ext=activity&site=cn)
-
 
 
 <!--
