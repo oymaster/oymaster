@@ -6,11 +6,11 @@
 
 ## 📕My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [cursor踩坑记录](http://oymaster.github.io/posts/5015.html)
 - [C++中的sort与自定义排序](http://oymaster.github.io/posts/40200.html)
 - [算法设计与复杂度分析2025试卷](http://oymaster.github.io/posts/15575.html)
 - [linux常用命令](http://oymaster.github.io/posts/30335.html)
 - [Linux文件目录理解](http://oymaster.github.io/posts/58113.html)
-- [单例模式](http://oymaster.github.io/posts/46132.html)
 <!-- BLOG-POST-LIST:END -->
 
 
