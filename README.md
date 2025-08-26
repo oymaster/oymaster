@@ -6,7 +6,7 @@
 
 ## 📕My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
-- [C++自定义排序总结](http://oymaster.github.io/posts/29990.html)
+- [C++中的sort与自定义排序](http://oymaster.github.io/posts/40200.html)
 - [算法设计与复杂度分析2025试卷](http://oymaster.github.io/posts/15575.html)
 - [linux常用命令](http://oymaster.github.io/posts/30335.html)
 - [Linux文件目录理解](http://oymaster.github.io/posts/58113.html)
