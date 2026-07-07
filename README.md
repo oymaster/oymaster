@@ -1,8 +1,9 @@
-## 🎯About Me
+## 🎯 About Me
 
-- 🔭 I’m currently working on `cpp`/`qt`/`python`
-- 🌱 I’m currently learning  `LLM`/`AI security`/`Agent`
-
+- 🚗 Autonomous driving software developer focusing on vehicle-side systems and C++/Linux development.
+- 🔭 Currently working with `C++` / `Linux` / `Python` / `Qt`.
+- 🧩 Interested in AD/robotics systems, middleware, fault management, performance debugging, and AI developer tools.
+- 🌱 Currently learning `LLM` / `AI Security` / `Agent` / `ROS2` / `DDS`.
 
 ---
 
